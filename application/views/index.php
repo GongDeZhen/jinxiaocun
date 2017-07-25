@@ -545,18 +545,18 @@ var _hmt = _hmt || [];
       <ul class="user-menu">
       	<!--<li class="qq"><a href="" target="_blank" id="mobile" title="手机版">手机版</a></li>
       	<li class="space">|</li>-->
-      	<li class="qq"><a href="" onClick="return false;" id="wpa">QQ咨询：93138905</a></li>
-      	<li class="space">|</li>
-        
-      	<li class="telphone">电话：17701030513</li>
-        <li class="space">|</li>
-      	<li><a href="http://www.istheme.com/i/253" target="_blank" class="buy-now">购买</a></li>
-        <li class="space">|</li>
+<!--      	<li class="qq"><a href="" onClick="return false;" id="wpa">QQ咨询：93138905</a></li>-->
+<!--      	<li class="space">|</li>-->
+<!--        -->
+<!--      	<li class="telphone">电话：17701030513</li>-->
+<!--        <li class="space">|</li>-->
+<!--      	<li><a href="http://www.istheme.com/i/253" target="_blank" class="buy-now">购买</a></li>-->
+<!--        <li class="space">|</li>-->
       	<li id="sysSkin">换肤</li>
         <li class="space">|</li>
-        
-      	<li><a class="service-tab" data-tab="3">在线提问</a></li>
-		<li class="space">|</li>
+
+<!--      	<li><a class="service-tab" data-tab="3">在线提问</a></li>-->
+<!--		<li class="space">|</li>-->
         <!-- 
         <li><a href="javascript:void(0);" onClick="window.location.href='';return false;">返回助手</a></li>-->
         <!--<li class="space">|</li>-->
@@ -566,7 +566,8 @@ var _hmt = _hmt || [];
          -->
        <!-- <li><a href="" target="_blank">帮助</a></li>
         <li class="space">|</li>-->
-        <li><a href="<?php echo site_url('login/out')?>">退出</a></li>
+		  <li class="space"></li>
+        <li><a href="<?php echo site_url('login/out')?>">退出</a></li><li class="space"></li>
       </ul>  
     </div>
     <div id="main-bd">
